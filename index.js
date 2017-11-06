@@ -14,7 +14,7 @@ var name = 'you'
 }
 
 function holidayCountdown(holiday, days) {
-  var holiday = 'Independence Day'
-  var days = 4
+  var holiday = "Mother's Day"
+  var days = 20
   return (`It's ${days} days until ${holiday}`)
 }
