@@ -1,4 +1,3 @@
 function happyHolidays(string) {
-if (string === string) {
-  return "Happy Holidays!"
+  return string ("Happy Holidays!")
 }
